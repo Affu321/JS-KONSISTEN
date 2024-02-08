@@ -20,7 +20,5 @@ function mahasiswa (nama, energi) {
 
     return mahasiswa;
 }
-
-
 let affu = mahasiswa('affu',20)
 let babayaga = mahasiswa('babayaga',30)
